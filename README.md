@@ -49,7 +49,7 @@ my_pk = ''</pre>
 
 <b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can only be edited from the configfile.py)</b>
 
-<h2>For whitelist, https://t.me/dannsniper (Telegram) </h2>
+<h2>For whitelist, https://t.me/evosniper (Telegram) </h2>
 
 ....
 
