@@ -13,7 +13,7 @@ Full version of Pancakeswap sniping bot used to snipe during fair coin launches.
 - An ethereum/bsc address
 - A Windows machine
 
-<br> </br>
+<br>
 <H2>Getting started</H2>
 
 0. Read prerequisites
