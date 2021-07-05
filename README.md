@@ -49,7 +49,7 @@ my_pk = ''</pre>
 
 <b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can only be edited from the configfile.py)</b>
 
-<h2>To buy access token, contact me at https://t.me/evosnipes (Telegram) </h2>
+<h2>To buy access token, contact me at Telegram: @evosnipes https://t.me/evosnipes. *Sometimes telegram link is down so you have to search for @evosnipes on Telegram </h2>
 
 ....
 
