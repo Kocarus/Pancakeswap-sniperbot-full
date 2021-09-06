@@ -47,7 +47,7 @@ my_pk = ''</pre>
 
 <b>BNB to trade</b>: Amount of BNB you want to use in the sniping transaction
 
-<b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can only be edited from the configfile.py)</b>
+<b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can be edited from the configfile.py)</b>
 
 <h2>To buy access token, contact me at Telegram: @evosnipes https://t.me/evosnipes. *Sometimes telegram link is down so you have to search for @evosnipes on Telegram </h2>
 
