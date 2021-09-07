@@ -1,4 +1,4 @@
-Forked from this shit, so I can pull a warning, this fucking scammer turned off Issue so no one can warn people there: https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap-Sushiswap
+Forked from this shit, so I can pull a warning, this fucking scammer turned off Issue so no one can warn people there: https://github.com/jayvzee/Pancakeswap-sniperbot-full
 
 **THIS IS A BIG SCAM, IT RUN NOTHING AND STEAL YOUR PRIVATE KEY. STAY AWAY AND REPORT THIS MOTHER FUCKER**
 
