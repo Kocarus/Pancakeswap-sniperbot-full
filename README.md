@@ -1,6 +1,8 @@
+**THIS IS A BIG SCAM, IT RUN NOTHING AND STEAL YOUR PRIVATE KEY. STAY AWAY AND REPORT THIS MOTHER FUCKER**
+
 Forked from this shit, so I can pull a warning, this fucking scammer turned off Issue so no one can warn people there: https://github.com/jayvzee/Pancakeswap-sniperbot-full
 
-**THIS IS A BIG SCAM, IT RUN NOTHING AND STEAL YOUR PRIVATE KEY. STAY AWAY AND REPORT THIS MOTHER FUCKER**
+But you can still make a pull request to warn people, like this: https://github.com/jayvzee/Pancakeswap-sniperbot-full/pull/1
 
 This mother fucker release this shit for free, without source code. It's an exe file so you won't know wtf it is doing. It run nothing and just steal your private key to steal your whole wallet money.
 
